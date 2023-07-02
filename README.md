@@ -1,2 +1,3 @@
 # Function_Website
-A project to Learn React.Js
+
+This project is doing to learn React.JS
